@@ -1,6 +1,6 @@
 # import necessary libraries
 import pandas as pd
-import numpy as np
+# import numpy as np
 import requests
 
 # define API key and base URL
