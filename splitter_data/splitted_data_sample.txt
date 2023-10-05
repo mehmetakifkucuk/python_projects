@@ -1,0 +1,44 @@
+Do not answer yet. This is just another part of the text I want to send you. Just receive and acknowledge as "Part 1/3 received" and wait for the next part.
+[START PART 1/3]
+Siparis_Tarihi,MusteriNo,FaturaNo,Fatura_Tarihi,SKU_Adi,UrunKodu_H1,UrunKodu_H2,UrunKodu_H3,Net_tutar,Urun_adedi,Doviz_kuru,PRODUCTHIERARCHY1,Bireysel_Kurumsal,ZZ_ANASKCODE,Alt_sektor_odu,ZZ_ALTSKCODE,Ikamet_sehir,Postakodu,Fatura_tipi,Kuponkodu,Kuponadi
+2022-11-09,0003959299,0036120434,2022-11-09,RadnorSplash Still Lemon&Lime 500ml CS24,Food and Kitchen,Beverages,Waters,8,19,1,GBP,50,Individual,141,Other,141.01,Stourbridge,DY82HL,ZAI,FREESHIP,FREESHIP
+2022-11-09,0003959299,0036120434,2022-11-09,RadnorSplash Still Org&Passfr 500ml CS24,Food and Kitchen,Beverages,Waters,8,19,1,GBP,50,Individual,141,Other,141.01,Stourbridge,DY82HL,ZAI,FREESHIP,FREESHIP
+2022-05-20,0003982048,0035545478,2022-05-20,%20 COUPON,,,,-11,35,1,GBP,95,Manufacturing,123,Other,123.10,Eastleigh,SO506RP,ZAI,SAVE20,SAVE20
+2022-05-20,0003982048,0035545478,2022-05-20,Avansas Av1492 Scissors 19cm,Office Supplies,Mailing And Packaging,Scissors,3,87,3,GBP,10,Manufacturing,123,Other,123.10,Eastleigh,SO506RP,ZAI,SAVE20,SAVE20
+2022-05-20,0003982048,0035545478,2022-05-20,Avansas Daily A4 Copier Paper80g 1Carton,Paper Products,Photocopy Papers,A4 Copy Papers,19,99,1,GBP,20,Manufacturing,123,Other,123.10,Eastleigh,SO506RP,ZAI,SAVE20,SAVE20
+2022-05-20,0003982048,0035545478,2022-05-20,Soft Yell WB Line Notebook 17x24 90Sheet,Paper Products,Notebooks and Agenda,Notebooks,0,99,1,GBP,20,Manufacturing,123,Other,123.10,Eastleigh,SO506RP,ZAI,SAVE20,SAVE20
+2022-05-20,0003982048,0035545478,2022-05-20,CUSHELLE TOILET ROLLS WHITE Pack 32,Cleaning,Paper Cleaning Products,Toilet Papers,26,78,2,GBP,40,Manufacturing,123,Other,123.10,Eastleigh,SO506RP,ZAI,SAVE20,SAVE20
+2022-05-21,0003983054,0035548653,2022-05-24,Avansas Daily A4 Copier Paper80g 1Carton,Paper Products,Photocopy Papers,A4 Copy Papers,39,98,2,GBP,20,Retail and wholesale,127,Wholesale,127.01,Worksop,S801QL,ZAI,SAVE20,SAVE20
+2022-05-21,0003983054,0035548653,2022-05-24,%20 COUPON,,,,-10,02,1,GBP,95,Retail and wholesale,127,Wholesale,127.01,Worksop,S801QL,ZAI,SAVE20,SAVE20
+2022-05-21,0003983054,0035548653,2022-05-24, Bic Cristal Grip Ballpen Med BL PK20,Office Supplies,Pens,Ballpoint pens,8,18,2,GBP,10,Retail and wholesale,127,Wholesale,127.01,Worksop,S801QL,ZAI,SAVE20,SAVE20
+[END PART 1/3]
+Remember not answering yet. Just acknowledge you received this part with the message "Part 1/3 received" and wait for the next part.
+
+Do not answer yet. This is just another part of the text I want to send you. Just receive and acknowledge as "Part 2/3 received" and wait for the next part.
+[START PART 2/3]
+2022-05-21,0003983054,0035548653,2022-05-24,Avansas 907 Marker Pen Bullet Nib Black,Office Supplies,Pens,Parcel Pens,1,98,2,GBP,10,Retail and wholesale,127,Wholesale,127.01,Worksop,S801QL,ZAI,SAVE20,SAVE20
+2022-05-23,0003984474,0035553119,2022-05-24,Avansas Ecopack Cop Ppr 80g 2000 Sht/Crt,Paper Products,Photocopy Papers,A4 Copy Papers,95,94,6,GBP,20,,,Retail,127.02,Kirkby Stephen,CA174QS,ZAI,SAVE20,SAVE20
+2022-05-23,0003984474,0035553119,2022-05-24,%20 COUPON,,,,-19,19,1,GBP,95,,,Retail,127.02,Kirkby Stephen,CA174QS,ZAI,SAVE20,SAVE20
+2022-05-23,0003984826,0035554923,2022-05-24,%20 COUPON,,,,-16,79,1,GBP,95,,,Other,138.11,Stockton-On-Tees,TS183BA,ZAI,SAVE20,SAVE20
+2022-05-23,0003984826,0035554923,2022-05-24,Avansas Ecopack Cop Ppr 70g 2000 Sht/Crt,Paper Products,Photocopy Papers,A4 Copy Papers,83,94,6,GBP,20,,,Other,138.11,Stockton-On-Tees,TS183BA,ZAI,SAVE20,SAVE20
+2022-05-24,0003985048,0035555382,2022-05-31,RadnorSplash Spark Lemon&Lime 330ml CS24,Food and Kitchen,Beverages,Waters,23,95,5,GBP,50,,,Other,141.01,Newbridge,EH288JW,ZAI,SAVE20,SAVE20
+2022-05-24,0003985048,0035555382,2022-05-31,RADNOR HILLS STILL 500ML Case 24,Food and Kitchen,Beverages,Waters,9,98,2,GBP,50,,,Other,141.01,Newbridge,EH288JW,ZAI,SAVE20,SAVE20
+2022-05-24,0003985048,0035555382,2022-05-31,RadnorSplash Spark Strawberry 330ml CS24,Food and Kitchen,Beverages,Waters,4,79,1,GBP,50,,,Other,141.01,Newbridge,EH288JW,ZAI,SAVE20,SAVE20
+2022-05-24,0003985048,0035555382,2022-05-31,RadnorSplash Spark Org&Passfr 330ml CS24,Food and Kitchen,Beverages,Waters,19,16,4,GBP,50,,,Other,141.01,Newbridge,EH288JW,ZAI,SAVE20,SAVE20
+2022-05-24,0003985048,0035555382,1900-01-01,RadnorSplash Spark ForstFruit 330ml CS24,Food and Kitchen,Beverages,Waters,0,0,GBP,50,,,Other,141.01,Newbridge,EH288JW,ZAI,SAVE20,SAVE20
+[END PART 2/3]
+Remember not answering yet. Just acknowledge you received this part with the message "Part 2/3 received" and wait for the next part.
+
+[START PART 3/3]
+2022-05-24,0003985048,0035555382,2022-05-31,%0 COUPON,,,,-14,31,1,GBP,95,,,Other,141.01,Newbridge,EH288JW,ZAI,SAVE20,SAVE20
+2022-05-24,0003985048,0035555382,2022-05-31,RadnorSplash Still ForstFruit 500ml CS24,Food and Kitchen,Beverages,Waters,23,67,3,GBP,50,,,Other,141.01,Newbridge,EH288JW,ZAI,SAVE20,SAVE20
+2022-05-24,0003985048,0035555382,2022-05-31,%20 COUPON,,,,-16,31,1,GBP,95,,,Other,141.01,Newbridge,EH288JW,ZAI,SAVE20,SAVE20
+2022-05-24,0003985048,0035555382,2022-05-31,CRAWFORDS MINI PACK BISCUITS PK 100,Food and Kitchen,Snacks,Biscuits,71,56,4,GBP,50,,,Other,141.01,Newbridge,EH288JW,ZAI,SAVE20,SAVE20
+2022-05-24,0003985633,0035558131,2022-05-31,Avansas Ecopack Cop Ppr 80g 2000 Sht/Crt,Paper Products,Photocopy Papers,A4 Copy Papers,63,96,4,GBP,20,,, Finance ,131.03,Worksop,S818LB,ZAI,SAVE20,SAVE20
+2022-05-24,0003985633,0035558131,2022-05-31,%20 COUPON,,,,-12,79,1,GBP,95,,, Finance ,131.03,Worksop,S818LB,ZAI,SAVE20,SAVE20
+2022-05-24,0003985782,0035558814,2022-05-31, HP Color Choice A3 160gsm Ream 250,Paper Products,Photocopy Papers,A3 Copy Papers,50,76,4,GBP,20,,,Other,138.11,Sandown,PO368LZ,ZAI,SAVE20,SAVE20
+2022-05-24,0003985782,0035558814,2022-05-31,%20 COUPON,,,,-10,15,1,GBP,95,,,Other,138.11,Sandown,PO368LZ,ZAI,SAVE20,SAVE20
+2022-05-24,0003985838,0035559044,2022-05-31,%20 COUPON,,,,-12,1,GBP,95,,,Other,131.08,Bath,BA23DZ,ZAI,SAVE20,SAVE20
+2022-05-24,0003985838,0035559044,2022-05-31,Avansas Daily A4 Copier Paper80g 1Carton,Paper Products,Photocopy Papers,A4 Copy Papers,59,97,3,GBP,20,,,Other,131.08,Bath,BA23DZ,ZAI,SAVE20,SAVE20
+[END PART 3/3]
+ALL PARTS SENT. Now you can continue processing the request.
