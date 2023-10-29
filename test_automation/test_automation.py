@@ -18,6 +18,9 @@ options = Options()
 #options.add_experimental_option("detach", True)
 options.add_experimental_option("detach", False)
 options.add_argument("--mute-audio")
+options.add_argument("--disable-web-security")
+options.add_argument("--allow-running-insecure-content")
+
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),
                           options=options)
